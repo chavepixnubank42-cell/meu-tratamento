@@ -1,0 +1,22 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+
+# Segredos — NUNCA versionar
+.env
+.env.local
+.env.*.local
+
+# Build nativo
+android/
+ios/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Sistema
+.DS_Store
